@@ -24,21 +24,27 @@ nav {
 
 .restaurant-list {
   padding-top: 45px;
-  width: auto;
+  width; auto;
 }
 
 .location {
   border-bottom: 1px solid black;
   height: 80px;
-  padding: 15px 20px 0 20px;
+  padding: 15px 20px 15px 20px;
 }
 
 .location:hover {
   background-color: #A5A4A6;
 }
 
+.content {
+  display: inline-block;
+}
+
 .arrow {
   float: right;
+  display: inline-block;
+  padding-top: 13px;
 }
 
 h1 {
